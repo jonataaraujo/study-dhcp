@@ -1,0 +1,7 @@
+
+12:03:14.280915 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 08:00:27:8d:c0:4d (oui Unknown), length 300
+12:03:14.281731 IP 192.168.4.1.bootps > 255.255.255.255.bootpc: BOOTP/DHCP, Reply, length 300
+12:03:14.310029 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 08:00:27:8d:c0:4d (oui Unknown), length 300
+12:03:15.329177 IP 192.168.4.1.bootps > 192.168.4.130.bootpc: BOOTP/DHCP, Reply, length 300
+12:03:15.330589 IP 0.0.0.0.bootpc > 255.255.255.255.bootps: BOOTP/DHCP, Request from 08:00:27:8d:c0:4d (oui Unknown), length 300
+12:03:15.332361 IP 192.168.4.1.bootps > 192.168.4.130.bootpc: BOOTP/DHCP, Reply, length 300
